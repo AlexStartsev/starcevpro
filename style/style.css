@@ -21,6 +21,7 @@ body {
 a {
     color: white;
     font-size: 150%;
+    text-decoration: none;
 }
 
 @media only screen and (max-width: 768px) {
