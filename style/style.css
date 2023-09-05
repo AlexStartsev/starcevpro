@@ -1,0 +1,31 @@
+body {
+    margin: 0 auto;
+    background-color: black;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.logotype {
+    width: 50%;
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+@media only screen and (max-width: 768px) {
+
+    /* For mobile phones: */
+    .logotype {
+        width: 100%;
+    }
+}
