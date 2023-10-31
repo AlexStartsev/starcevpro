@@ -12,11 +12,14 @@ body {
     width: 50%;
 }
 
-.contacts {
+.telephone,
+.instagram {
     display: flex;
     justify-content: center;
     color: white;
 }
+
+
 
 a {
     color: white;
